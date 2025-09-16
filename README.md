@@ -14,22 +14,8 @@ Estas são as Tecnologias, Linguagens de Programação e Serviços que possuo ex
 ## 📞 Contatos
 Para quaisquer dúvidas, melhorias ou esclarecimentos entre em contato comigo através das redes sociais no meu perfil.
 
-<style>
-    ul {
-        padding: 0;
-        margin: 0;
-        display: flex;
-        gap: 0.5rem;
-        list-style-type: none;
-    }
-</style>
-
-<div>
-    <ul  style="color:red;">
-        <li><a href="https://www.instagram.com/guisaadev
-        " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></li>
-        <li><a href="https://www.linkedin.com/in/guisaadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></li>
-        <li><a href="#" target=""><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a></li>
-        <li><a href="#" target=""><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></a></li>
-    </ul>
-</div>
+<a href="https://www.instagram.com/guisaadev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guisaadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#" target=""><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+<a href="#" target=""><img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"></a>
+    
