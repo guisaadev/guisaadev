@@ -27,5 +27,4 @@ Para quaisquer **dúvidas, melhorias ou esclarecimentos** entre em contato comig
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guisaadev/)
 [![Discord](https://skillicons.dev/icons?i=discord)]()
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/guisaadev)
-
-[![WordPress](https://skillicons.dev/icons?i=wordpress)]()
+[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://profiles.wordpress.org/guisaadev)
